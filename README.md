@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Nick Bryan López Reina
+  Hi, I'm Nick Bryan López Reina
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an **Information Technology Engineer** passionate about building scalable software architectures, modern web applications, intelligent systems powered by AI, and secure enterprise solutions.
 
@@ -31,7 +31,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -71,7 +71,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 🤖 AI & Intelligent Systems
+## AI & Intelligent Systems
 
 - OpenAI API Integration
 - Retrieval-Augmented Generation (RAG)
@@ -85,7 +85,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickBryan20&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -94,7 +94,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NickBryan20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -102,7 +102,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 🌐 Social Media
+## Social Media
 
 <p align="center">
   <a href="https://www.instagram.com/nb_reina" target="_blank">
@@ -116,7 +116,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:nickbryan20@hotmail.com">
@@ -140,7 +140,7 @@ I enjoy designing complete systems from the ground up, including:
 
 ---
 
-## 🏆 Areas of Expertise
+## Areas of Expertise
 
 ```text
 Software Architecture      ████████████████████ 100%
@@ -154,7 +154,7 @@ Cloud & DevOps             ██████████████░░░�
 
 ---
 
-## 🌟 Featured Technologies
+## Featured Technologies
 
 ```yaml
 Languages:
@@ -193,11 +193,11 @@ Security:
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: nickbryan20@hotmail.com
+Email: nickbryan20@hotmail.com
 
-🐙 GitHub:
+GitHub:
 https://github.com/NickBryan20
 
 ---
